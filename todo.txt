@@ -1,0 +1,22 @@
+#easy changes (due tonight)
+[X] change theme colours (rn post's button's colours are screwed)
+[X] add different pictures
+[X] change posts
+[X] change users (make them into different flappy bird characters) 640*960
+[X] decide on a social media name
+[] fix favicon
+
+#harder changes (due by end of winter break) (3-5 days)
+[] add a messaging function
+[] have a notification system
+[] have ai message you back (very basic messaging)
+[] expand posting features (allow to post clips, attachements, and audio)
+[] change name of files
+
+#harder + less priority changes
+[] add search function (like in twitter)
+[] add settings landing page
+[] add "create ad" landing page
+[] add tagging function for posts
+[] make commenting function more interactive (and more similar to actual social media comments)
+[] character limit for posts (like twitter)
