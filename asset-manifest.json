@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/flappytwittr/static/css/main.b62ea404.css",
+    "main.js": "/flappytwittr/static/js/main.ee916735.js",
+    "index.html": "/flappytwittr/index.html",
+    "main.b62ea404.css.map": "/flappytwittr/static/css/main.b62ea404.css.map",
+    "main.ee916735.js.map": "/flappytwittr/static/js/main.ee916735.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b62ea404.css",
+    "static/js/main.ee916735.js"
+  ]
+}
